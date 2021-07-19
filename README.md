@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Weslley08,
+- 👋 Hi, I’m Weslley Jonathan,
 - 👀 I’m interested in Java,
 - 🌱 I’m currently learning Java, SpringBoot and MySQL,
 - 💞️ I’m looking to collaborate on projetos Java with SpringBoot,
-- 📫 How to reach me @weslley_jonathan;
+- 📫 How to reach me @weslley_jonathan,
+- 🛠️ My linkedin is: https://www.linkedin.com/in/weslleyjonathan/
