@@ -14,9 +14,9 @@
 
 ```javascript
 const weslley = {
-    location: "Brasil 🇧🇷",
-    currentFocus: "Building scalable applications",
-    funFact: "I debug with console.log and I'm not ashamed! 😄"
+  location: "Brasil 🇧🇷",
+  currentFocus: "Building scalable applications",
+  funFact: "I debug with console.log and I'm not ashamed! 😄",
 };
 ```
 
@@ -67,6 +67,7 @@ const weslley = {
 </p>
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
 </details>
 
 <details open>
@@ -83,6 +84,7 @@ const weslley = {
 
 ![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 ![Athena](https://img.shields.io/badge/Amazon%20Athena-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 </details>
 
 <details>
@@ -110,21 +112,6 @@ const weslley = {
   <img src="assets/icons/tomcat/tomcat-original.svg" width="45" height="45" alt="Tomcat" title="Tomcat"/>
 </p>
 </details>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Weslley08&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weslley08&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Weslley08&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
----
 
 ## 🤝 Let's Connect!
 
